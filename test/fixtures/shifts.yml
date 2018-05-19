@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 1
+  employees: MyString
+  time: MyString
+  note: MyString
+  positions: MyString
+
+two:
+  date: 1
+  employees: MyString
+  time: MyString
+  note: MyString
+  positions: MyString
